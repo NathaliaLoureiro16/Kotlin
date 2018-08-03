@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "281475444776",
+    "firebase_url": "https://fir-57046.firebaseio.com",
+    "project_id": "fir-57046",
+    "storage_bucket": "fir-57046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281475444776:android:4aab6dd1dfb271d7",
+        "android_client_info": {
+          "package_name": "br.org.fundatec.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281475444776-58dh4gcsgd1hoe6j06fdab9pven75eg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.org.fundatec.firebase",
+            "certificate_hash": "626cdd45d68f9b2ffcd5c7a121aa43b99bad00a4"
+          }
+        },
+        {
+          "client_id": "281475444776-spdkfef83s6q0f3enukdqsisg9m6a9h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4S3CAsOEAFFZrsL0fq9AnGH69d-yA84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281475444776-spdkfef83s6q0f3enukdqsisg9m6a9h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
